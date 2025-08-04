@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/fan-engagement-insights-platform-20113-20122/fan_engagement_backend"
+}
